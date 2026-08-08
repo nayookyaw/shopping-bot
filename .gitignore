@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.browser-profile/
+config/products.json
+playwright-report/
+test-results/
+*.log
+.env

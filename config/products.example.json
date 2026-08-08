@@ -1,0 +1,15 @@
+{
+  "productUrl": "https://s.lazada.sg/s.4zp6d",
+  "quantity": 1,
+  "maximumUnitPrice": 10,
+  "expectedTitleContains": "milk",
+  "expectedSellerContains": "",
+  "variations": {},
+  "action": "add-to-cart",
+  "requireFinalConfirmation": true,
+  "navigationTimeoutMs": 45000,
+  "monitoring": {
+    "pollIntervalMs": 15000,
+    "timeoutMinutes": 120
+  }
+}
