@@ -1,7 +1,11 @@
 # Lazada Stock Monitor and Auto-Purchase Bot
 
-Developed by Nay Oo Kyaw<br>
-Email: nayookyaw.nok@gmail.com
+## Author
+
+- **Developer:** Nay Oo Kyaw
+- **Email:** [nayookyaw.nok@gmail.com](mailto:nayookyaw.nok@gmail.com)
+
+---
 
 This Node.js bot opens Lazada in a visible Chromium browser, monitors one configured product, and can submit one order as soon as the selected item becomes available.
 
