@@ -23,7 +23,7 @@ npm --version
 ## 1. Open the project
 
 ```powershell
-cd C:\DSSG\source-codes\personal\integration-cart
+cd path\to\shopping-bot
 ```
 
 ## 2. Install dependencies
