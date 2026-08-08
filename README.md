@@ -1,5 +1,8 @@
 # Lazada Stock Monitor and Auto-Purchase Bot
 
+Developed by Nay Oo Kyaw  
+Email: nayookyaw.nok@gmail.com
+
 This Node.js bot opens Lazada in a visible Chromium browser, monitors one configured product, and can submit one order as soon as the selected item becomes available.
 
 The bot validates the product title, optional seller, selected variation, quantity, unit price, and final order total before clicking **Place Order** or **Pay Now**. It never attempts to bypass CAPTCHA, OTP, login, bank verification, or other security controls.
